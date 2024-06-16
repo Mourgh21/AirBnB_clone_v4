@@ -183,8 +183,6 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Second part of Airbnb: Joann Vuong
 
 Abdesamad Mourgh - [Github](https://github.com/Mourgh21)
-Mohamed Chakhman- [Github](https://github.com/medchakh)
-
 ## License
 
 Public Domain. No copy write protection.
